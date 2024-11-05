@@ -1,15 +1,15 @@
 # Windows Utils
 
-This repository contains a collection of utility scripts designed for Windows operating systems. These scripts are intended to simplify various tasks and automate processes.
+This repository contains a collection of utility scripts designed for Windows operating systems. These scripts aim to simplify various tasks and automate processes.
 
 ## Scripts Included
 
-- **Checker.bat**: A script to perform specific checks or tasks.
-- **MAS_AIO.cmd**: A multi-purpose script for various automated tasks.
+- **Checker.bat**: This script checks the serial numbers of the computer's hardware components.
+- **MAS_AIO.cmd**: A multi-purpose script for the activation of Windows and Microsoft Office products etc.
 
 ## Usage
 
-To use any of the scripts, simply download the `.bat` or `.cmd` files and execute them in a command prompt.
+To use any of the scripts, download the `.bat` or `.cmd` files and execute them in a command prompt.
 
 ## Contributing
 
